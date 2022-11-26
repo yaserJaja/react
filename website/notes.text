@@ -1,0 +1,7 @@
+dependencies الحاجات التي يعتمد عليهاالمشروع
+
+Commands:
+  npm init
+  npm install packageName
+  npm uninstall packageName
+  

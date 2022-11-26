@@ -1,0 +1,13 @@
+# Navbar:
+  1) npm i react-router-dom
+  2) import {
+      BrowserRouter,
+      Link,
+      Routes,
+      Route
+     } from 'react-router-dom'
+
+  3) BrowserRouter include all data navbar
+  4) replace <a href='location'></a> by <Link to="location"></Link>
+  5) Routes include all Route
+  6) Route have to attributes: path='location' element={<Name />}

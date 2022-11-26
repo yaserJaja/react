@@ -1,0 +1,15 @@
+.product .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.product .container .image {
+  width: 30%;
+}
+.product .container .image img {
+  width: 100%;
+}
+.product .container .text {
+  width: 50%;
+  line-height: 2;
+}
